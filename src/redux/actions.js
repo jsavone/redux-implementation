@@ -4,11 +4,10 @@
  
  
  // create the function 
- export const = (item) =>{
+ export const addItem = (item) =>{
    //return an obj with the actions
    return{
      type:ADD_ITEM,
      payload:item
-     
    }
  }
