@@ -4,7 +4,7 @@
  
  
  // create the function 
- export const = (list) =>{
+ export const = (item) =>{
    //return an obj with the actions
    return{
      type:ADD_ITEM,
