@@ -2,4 +2,4 @@
 
 //create variable for initial state
 
-//export state and action. Use switch s
+//export state and action. Use switch statement.
